@@ -89,3 +89,17 @@ reference:
     - solubility_test
     - two_class_example
 
+navbar:
+  left:
+  - text: Articles
+    menu:
+    - text: Custom Metrics
+      href: https://www.tidymodels.org/learn/develop/metrics/
+    - text: Metric Types
+      href: articles/metric-types.html
+    - text: Multiclass Averaging
+      href: articles/multiclass.html
+  - text: Reference
+    href: reference/index.html
+  - text: News
+    href: news/index.html
